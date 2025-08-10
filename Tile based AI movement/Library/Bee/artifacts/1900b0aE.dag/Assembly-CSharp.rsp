@@ -356,6 +356,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/MapGeneration.cs"
+"Assets/Scripts/obstacle positions.cs"
+"Assets/Scripts/ObstacleManager.cs"
 -langversion:9.0
 
 /deterministic
