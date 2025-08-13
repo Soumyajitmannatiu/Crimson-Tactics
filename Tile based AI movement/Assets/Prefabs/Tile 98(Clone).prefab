@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1189346221733345254}
+  - component: {fileID: 6884666991629190270}
   m_Layer: 0
   m_Name: Tile 98(Clone)
   m_TagString: Tiles
@@ -33,6 +34,20 @@ Transform:
   - {fileID: 5256875404051368990}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6884666991629190270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5239946664170418196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71ec8e2282d718a4dbc6d4f8442c59dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isBlocked: 0
+  isOccupied: 0
 --- !u!1 &5661482726254680620
 GameObject:
   m_ObjectHideFlags: 0
