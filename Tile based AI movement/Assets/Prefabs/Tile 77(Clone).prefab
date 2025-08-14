@@ -46,8 +46,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71ec8e2282d718a4dbc6d4f8442c59dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  parent: {fileID: 0}
+  GridPosn: {x: 0, y: 0}
   isBlocked: 0
   isOccupied: 0
+  op: {fileID: 11400000, guid: f7469c3624f05564687efe98aae9c956, type: 2}
 --- !u!1 &1074305739251251108
 GameObject:
   m_ObjectHideFlags: 0

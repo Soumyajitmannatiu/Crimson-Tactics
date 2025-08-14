@@ -362,7 +362,6 @@
 "Assets/Scripts/ObstacleManager.cs"
 "Assets/Scripts/Pathfinding.cs"
 "Assets/Scripts/PlayerMovement.cs"
-"Assets/Scripts/SphereHandler.cs"
 "Assets/Scripts/Tiles.cs"
 -langversion:9.0
 
